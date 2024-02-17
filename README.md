@@ -1,4 +1,4 @@
-# CipherAssist (A1_CSCI3901)
+# CipherAssist
 
 Assignment 1 for CSCI3901 - Software Development Concepts
 
